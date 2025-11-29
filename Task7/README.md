@@ -1,4 +1,5 @@
 Task-7
+
 Name: Maheen Zehra
 
 AI – Driven Development 30 Days Challenge Task-7
@@ -56,3 +57,4 @@ In the Tasks Phase, the detailed implementation plan is broken down into small, 
 Implementation Phase:
 
 In this phase, you turn your plan and tasks into real working code. You follow a step-by-step process where you first write tests, then write code to pass those tests, and finally improve the code while keeping it correct. All tasks are done in order, making sure the code matches the specification and is ready to use.
+
